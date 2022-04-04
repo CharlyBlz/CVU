@@ -1,0 +1,40 @@
+html{
+    user-select: none;
+}
+legend,ul,li{
+    font-size: 20px;
+}
+h2{
+    background-color:lightblue;
+    border-radius: 20px;
+    width: auto;
+    height: auto;
+    padding: 5px 30px 5px 30px;
+}
+.contenedorp{
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+.profilepic{
+    padding-top: 20px;
+}
+.objetivo,p{
+    font-size: 20px;
+}
+
+.sub{
+    text-decoration: underline;
+}
+.header{
+    margin: 0;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.schooling, .objetivo, p{
+    margin-left: 25px;
+}
+.subli{
+    text-indent: 30px;
+}
+
